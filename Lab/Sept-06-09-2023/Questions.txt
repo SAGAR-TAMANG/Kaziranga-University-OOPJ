@@ -1,0 +1,3 @@
+// Check if a given string is palindrome or not.
+// Check if the number is prime in a given range and distinguish the range of numbers to sum of even and sum of odd.
+// Perform operations like searching, sorting, & reversing arrays.

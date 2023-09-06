@@ -1,0 +1,3 @@
+// Question 1: Implement a single calculator that can perform arithmetic operations.
+// Question 2: Calculate a factorial of a given number.
+// Question 3: Generate the fibonacci series upto a specific number given.
