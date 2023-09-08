@@ -1,0 +1,15 @@
+1. Write a program with the following features -
+1) create a class
+2) declare 2 variables - width, length of double data type
+3)in the same class  define a function called - area
+4) print the calculated area
+5) create a driver class
+6) inside the main(), create 2 objects
+7) write the comments while creating the objects - where is constructor? what is the use of new key word?
+8) call the function - area() from driver class
+9) execute the function with 2 sets of values for width and legth -
+    set 1: width = 15.5, length = 10.5
+    set 2: width = 5.3, length = 5.5
+10) write the results
+
+2) write a program to show the use of - overloaded constructor.
