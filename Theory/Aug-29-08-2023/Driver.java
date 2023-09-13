@@ -13,7 +13,7 @@ class Box{
 
 }
 
-class Main{
+class Driver{
 
   public static void main(String args[]){
     Box firstbox;
