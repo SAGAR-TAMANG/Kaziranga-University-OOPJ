@@ -2,7 +2,7 @@ class A{
   int i, j;
 
   void showij(){
-    System.out.println("I & K: " + i + " " + j);
+    System.out.println("I & J: " + i + " " + j);
   }
 }
 
