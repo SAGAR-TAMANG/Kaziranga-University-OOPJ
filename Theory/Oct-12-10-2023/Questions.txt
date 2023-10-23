@@ -1,0 +1,24 @@
+1. Write the 3 fundamental components of Java Development Kit. - 3
+2. Explain:
+a. JDK - 5
+b. JVM - 5
+c. JRE - 5
+d. JIT - 5
+
+1.
+- Java Compiler: The Java compiler is the javac tool located in the /bin folder of the JDK installation directory. It converts the source code into bytecode
+- Java Virtual Machine (JVM): This is the core component of any Java environment. It interprets the bytecode and executes the Java program
+- Java Runtime Environment (JRE): The JRE builds a runtime environment in which Java programs can be executed. It contains libraries and software needed by Java programs to run. JRE is a part of JDK but can be downloaded separately
+
+- JDK is used for Java development as it provides the entire executable and binaries as well as tools required to compile, debug, and execute a Java program
+
+2. 
+- The Java Development Kit (JDK) is a software package that provides the tools necessary to write Java programs that can be executed and run by the Java Virtual Machine (JVM) and Java Runtime Environment (JRE).
+
+- The Java Virtual Machine (JVM) is a virtual machine that enables a computer to run Java programs as well as programs written in other languages that are also compiled to Java bytecode.
+
+- Java Runtime Environment is a software layer that is required to facilitatte the communication between the java program and the operating system.
+- It basically provides the class libraries and other resources that a specific Java program needs to run.
+
+- The JIT compiler is a component of the runtime environment that improves the performance of Java applications by compiling bytecodes to machine code that the CPU can execute directly
+
