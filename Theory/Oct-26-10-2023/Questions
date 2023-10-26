@@ -1,0 +1,33 @@
+Important Questions
+
+1. What is exception explain with one example. - 3
+- An exception is an abnormal condition that arises in a code sequence at run time.
+- An exception is a runtime error.
+- Example: (Uncaught exception)
+  - java.lang.ArithmeticException: / by zero
+        at Exoc0.main(Exco.java:4)
+
+2. What are the steps used to handle exceptions. -1
+  1. An exception is detected by the Java run-time system 
+  2. Java run-time system will construct an exception object.
+  3. Then it throws the exception
+  4. then thrown object is caught by the default handler provided by the Java run-time system. 
+  5. The default handler displays a string describing the exception, prints a stack trace from the point at which the exception occurred, and terminates the program.
+
+3. What is stack trace. -1
+- Stack trace will show the sequence of method invocations that led up to the error.
+- Example:
+  - java.lang.ArithmeticException: / by zero
+        at Exoc0.subroutine(Exc1.java:4)
+        at Exoc0.main(Exc1.java:7)
+
+4. Write the five keywords used in exception handling. -1
+- Java exception handling is managed via five keywords: 
+   try, catch, throw, throws, and finally. 
+  1. Try - Program statements that we want to monitor for exceptions. 
+  2. Catch - Your code can catch this exception using catch and handle it in some rational manner.
+  3. Throw - If an exception occurs within the try block, it is thrown. 
+  Case 1 - System-generated exceptions - automatically thrown by the Java run-time system. 
+  Case 2 – Programmer generated exceptions – throw keyword is used to manually throw an exception.
+  4. Throws- Any exception that is thrown out of a method must be specified by a throws clause. 
+  5. Finally - Any code that absolutely must be executed after a try block completes is put in a finally block.
