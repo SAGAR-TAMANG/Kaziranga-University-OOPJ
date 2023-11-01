@@ -1,3 +1,5 @@
+// A program that uses BOX class
+
 class Box {
   double width;
   double height;
