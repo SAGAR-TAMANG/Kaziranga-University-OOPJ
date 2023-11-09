@@ -1,0 +1,19 @@
+1. Which variable is created when an object is created with the new keyword and destryoed when an object is destroyed?
+> - Local variable, Class variable, Instance variable, or Static variable
+
+2. Which method cannot be overriden? 
+> Final method, Final class, Final variable
+
+3. List of exceptions are i. Checked exceptions or ii. Unchecked exceptions or iii. Both: 
+- NullPointerException 
+- ArrayIndexOutOfBound
+- ArithmethicException
+- NumberFormatException
+
+4. Write short notes on: 
+  i. Array in Java w/ Example 
+  ii. HashMap w/ Example
+  iii. Package w/ Example
+
+5. Difference between Checked exceptions and Unchecked exceptions w/ examples.
+
