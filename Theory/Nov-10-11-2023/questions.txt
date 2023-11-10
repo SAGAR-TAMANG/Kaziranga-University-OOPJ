@@ -1,0 +1,36 @@
+Q.1. Write a program to calcolate the area of 
+marks obtained by a student in 5 subjects -
+65.7, 89.7, 56.4, 90.3, 75.7
+
+Q. Write short notes on - 
+  a) Path variable and command line argument
+  b) HashMap in Java with example
+  c) Array in Java with example
+  d) Constructor in Java with example
+  e) Function Overloading & Overriding
+
+ 
+a. Path variable and command line argument
+ - A path variable is a system variable that contains a list of directories where executable programs and files exist. 
+ - It is used by the operating system to locate executables and other files that are required to run programs
+
+b. HashMap in Java with Example:
+ - HashMap is a class in Java that implements the Map interface and provides the functionality of the hash table data structure. 
+ - It stores elements in key/value pairs and allows null values and the null key. 
+ - HashMap works on hashing algorithms and uses the hashCode() and equals() methods on the key for get and put operations
+
+c. Array in Java with Example:
+ - An array in Java is a collection of similar types of data that is referred to by a common name. Arrays in Java work differently than they do in C/C++. 
+ - In Java, all arrays are dynamically allocated, which means that the memory is created dynamically, reducing the amount of storage required for the code 
+
+d. Constructor in Java with example:
+ - A constructor in Java is a special method that is used to initialize objects. It is called when an object of a class is created and is used to set initial values for object attributes.
+ - The constructor is similar to a method, but it has no return type and its name is the same as the class name.
+
+e. Function Overloading & Overriding with example:
+ - Function overloading is a feature in Java that allows a class to have multiple methods with the same name but different parameters. 
+ - This feature is used to improve code readability and reusability. When a method is overloaded, it can perform different operations based on the number, type, and order of its parameters.
+ - When a method in a subclass has the same name, the same parameters or signature, and the same return type (or sub-type) as a method in its super-class, then the method in the subclass is said to override the method in the super-class
+
+
+
