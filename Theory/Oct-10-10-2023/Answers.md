@@ -9,7 +9,7 @@ It's because Java incorporates both the compiler as well as interpretation stage
 Multi-threaded language is a type of programming language that supports multiple threads (i.e., a bunch of processes) to run concurrently. Java supports the execution of multiple threads i.e., a bunch of processes concurrently/simultaneously.
 
 ### What is an API?
-API is the full form of Application Programming Interface. It is basically a bunch of end-points, can be visualized as a remote, which is pre-specified as what it will perform.
+API's full form is Application Programming Interface. It is basically a bunch of end-points, can be visualized as a remote, which is pre-specified as what it will perform.
 
 ### What is bytecode?
-Bytecode is a low lever, platform-independent representation of the source code which is the output of the compiler. It can further be executed directly by the JVM or further compiled into machine code. 
+Bytecode is a low level, platform-independent representation of the source code which is the output of the compiler. It can further be executed directly by the JVM or further compiled into machine code. 

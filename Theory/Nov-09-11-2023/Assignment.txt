@@ -1,6 +1,6 @@
 forget about it 
 
-1. Which variable is created when an object is created with the new keyword and destryoed when an object is destroyed?
+1. Which variable is created when an object is created with the new keyword and destroyed when an object is destroyed?
 > - Local variable, Class variable, Instance variable, or Static variable
 
 2. Which method cannot be overriden? 
